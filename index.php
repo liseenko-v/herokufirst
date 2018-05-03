@@ -1,4 +1,5 @@
 <?php 
-echo "Heroku first test";
-echo "Heroku deploy";
+echo "Heroku first test".PHP_EOL;
+echo "Heroku deploy".PHP_EOL;
+echo "heroku build";
 ?>
